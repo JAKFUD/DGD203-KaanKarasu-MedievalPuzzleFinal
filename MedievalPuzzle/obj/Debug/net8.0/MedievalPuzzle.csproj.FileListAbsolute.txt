@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\MedievalPuzzle\MedievalPuzzle\bin\Debug\net8.0\MedievalPuzzle.exe
+C:\Users\HP\source\repos\MedievalPuzzle\MedievalPuzzle\bin\Debug\net8.0\MedievalPuzzle.deps.json
+C:\Users\HP\source\repos\MedievalPuzzle\MedievalPuzzle\bin\Debug\net8.0\MedievalPuzzle.runtimeconfig.json
+C:\Users\HP\source\repos\MedievalPuzzle\MedievalPuzzle\bin\Debug\net8.0\MedievalPuzzle.dll
+C:\Users\HP\source\repos\MedievalPuzzle\MedievalPuzzle\bin\Debug\net8.0\MedievalPuzzle.pdb
+C:\Users\HP\source\repos\MedievalPuzzle\MedievalPuzzle\obj\Debug\net8.0\MedievalPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MedievalPuzzle\MedievalPuzzle\obj\Debug\net8.0\MedievalPuzzle.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MedievalPuzzle\MedievalPuzzle\obj\Debug\net8.0\MedievalPuzzle.AssemblyInfo.cs
+C:\Users\HP\source\repos\MedievalPuzzle\MedievalPuzzle\obj\Debug\net8.0\MedievalPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MedievalPuzzle\MedievalPuzzle\obj\Debug\net8.0\MedievalPuzzle.dll
+C:\Users\HP\source\repos\MedievalPuzzle\MedievalPuzzle\obj\Debug\net8.0\refint\MedievalPuzzle.dll
+C:\Users\HP\source\repos\MedievalPuzzle\MedievalPuzzle\obj\Debug\net8.0\MedievalPuzzle.pdb
+C:\Users\HP\source\repos\MedievalPuzzle\MedievalPuzzle\obj\Debug\net8.0\MedievalPuzzle.genruntimeconfig.cache
+C:\Users\HP\source\repos\MedievalPuzzle\MedievalPuzzle\obj\Debug\net8.0\ref\MedievalPuzzle.dll
